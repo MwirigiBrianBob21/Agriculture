@@ -65,6 +65,15 @@ button{
     background-size:100% 100%;    
     margin-bottom: 10%;
 
+.h1{
+    text-align: left;
+    width: 60%;
+    font-size: 310%;
+    position: sticky;
+    margin-left: 50px;
+    margin-top: 200px;
+   
+}
 .numbers{
     display: flex;
     flex-direction: row;
