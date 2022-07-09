@@ -1,3 +1,10 @@
+/*Do not change the layout or image sizes.
+The following are the background menus and the screen menu text colors for the project.
+Primary Color: #ED661F
+Font type: Poppins, Inter*/
+
+
+
 header{
     display: flex;
     flex-direction: row;
@@ -31,6 +38,8 @@ header{
 .underline{
     text-decoration: underline;
 
+
+}
 .header_right{
     display: flex;
     flex-direction: row;
@@ -47,6 +56,7 @@ header{
     color: white;
     font-size: 170%;
     padding-top: 25px;
+}
 button{
     background-color: #ED661F;
     color: white;
@@ -58,6 +68,17 @@ button{
     height: 110%;
     margin-top: -20px;
 }
+#explore{
+    
+   padding: 2%;
+    text-align: center;
+    width: max-content;
+    border: 0ch;
+    position: relative;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
 .main1{
     /*background-image: url(/assets/images/background_image.png); */
     background-repeat: no-repeat;
@@ -65,6 +86,10 @@ button{
     background-size:100% 100%;    
     margin-bottom: 10%;
 
+
+    
+
+}
 .h1{
     text-align: left;
     width: 60%;
@@ -73,6 +98,14 @@ button{
     margin-left: 50px;
     margin-top: 200px;
    
+}
+    
+#img1{
+    float: right;
+    width: 60%;
+    margin-top: 100px;
+   
+
 }
 .numbers{
     display: flex;
@@ -88,6 +121,7 @@ button{
     width: 50%;
     font-size: 150%;
 
+}
 .numbers>div{
     text-align: center;
 }
