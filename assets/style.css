@@ -87,3 +87,7 @@ button{
     box-shadow: 0px 5px 8px black;
     width: 50%;
     font-size: 150%;
+
+.numbers>div{
+    text-align: center;
+}
