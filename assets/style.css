@@ -47,3 +47,14 @@ header{
     color: white;
     font-size: 170%;
     padding-top: 25px;
+button{
+    background-color: #ED661F;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    padding: 5%;
+    width: 120%;
+    margin-left: -15px;
+    height: 110%;
+    margin-top: -20px;
+}
