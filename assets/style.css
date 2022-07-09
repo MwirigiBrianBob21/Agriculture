@@ -64,3 +64,17 @@ button{
     background-attachment:scroll;
     background-size:100% 100%;    
     margin-bottom: 10%;
+
+.numbers{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    width: 40%;
+    margin-left: 29%;
+    padding: 4%;
+    background-color: whitesmoke;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    box-shadow: 0px 5px 8px black;
+    width: 50%;
+    font-size: 150%;
