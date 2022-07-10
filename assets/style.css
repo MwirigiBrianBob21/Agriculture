@@ -244,3 +244,30 @@ h2{
  float: right;   
  margin-left: auto; 
 }
+.individual{
+    padding: 10px 10px 10px 10px;
+    background-color: white;
+    margin: 130px 90px 90px 40px;
+    box-shadow: 0px 5px 4px rgb(167, 162, 162);
+    
+}
+.third h3{
+    font: 900;
+    margin-left: 100px;
+    font-size: 220%;
+    margin-top: 100px;
+}
+.individual h2{
+    text-align: center;
+    color: #ED661F;
+    font-size: 300%;
+    text-decoration: none;
+}
+.individual p{
+    font-size: 150%;
+    text-align: left;
+    margin: 20%;
+    text-decoration: none;
+}
+.individual img{
+    margin-left: 100px;
