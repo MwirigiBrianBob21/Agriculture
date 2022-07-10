@@ -132,3 +132,11 @@ button{
 .numbers>div{
     text-align: center;
 }
+h2{
+    font-weight: 900;
+    text-decoration-line:underline;
+    text-underline-offset: 30%;
+    text-decoration-color: #ED661F;
+    text-decoration-style: 10px 1px solid;
+    font-size: 200%; 
+}
