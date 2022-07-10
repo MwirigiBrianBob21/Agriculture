@@ -277,3 +277,23 @@ width: 200px;
 /*height: 2px 20px;*/
 padding: 14px 10px 6px 10px;
 margin-left:-1px;
+
+footer{
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    
+}
+.final{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+footer > p{
+    text-align: center;
+    font-size: 150%;
+    margin-top: 20px;
+}
