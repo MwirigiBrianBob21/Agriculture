@@ -28,6 +28,13 @@ header{
     font-size: 20px;
     
 }
+.header_middle a:hover{
+    background-color: coral;
+    padding: 10px 10px 10px 10px;
+}
+.underline>a{
+    text-decoration: none;
+}
  a{
     text-decoration: none;
     color: #f0f8ff;
