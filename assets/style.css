@@ -233,3 +233,14 @@ h2{
     background-color: #11a8e4;
     padding: 10px;
 }
+.reviews{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px ;
+    font-size: 200%;
+   
+}
+.reviews h4{
+ float: right;   
+ margin-left: auto; 
+}
