@@ -297,3 +297,31 @@ footer > p{
     font-size: 150%;
     margin-top: 20px;
 }
+.final > h4{
+    font-size: 60%;
+}
+.agriplus_f h2{
+    text-decoration: none;
+}
+.email h2{
+    text-decoration: none;
+}
+.email{
+    text-align: center;
+    font-size: 150%;
+    border-bottom: 5px solid white;
+    padding-bottom: 5%;
+}
+.agriplus_f a{
+    padding: 7px;
+    font-size: 200%;
+
+}
+.email input{
+    font-size: 200%;
+    color: white;
+}
+.email p{
+    font-size: 150%;
+
+}
